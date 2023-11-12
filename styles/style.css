@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+}
+
+.sec1 {
+    background-image: url(../images/spacebackground.gif);
+    background-color: black;
+    height: 540px;
+
+}
+
+.sec2 {
+    background-image: url(../images/fire.gif);
+    background-repeat: repeat-x;
+    background-position: bottom;
+    background-color: black;
+    height: 540px;
+
+}
+
+.sec3 {
+    background-image: url(../images/spacebackground.gif);
+    background-color: black;
+    height: 540px;
+
+}
+
+.sec4 {
+    background-image: url(../images/spacebackground.gif);
+    background-color: black;
+    height: 540px;
+
+}
+
+.sec5 {
+    background-image: url(../images/spacebackground.gif);
+    background-color: black;
+    height: 540px;
+
+}
+
+.sec6 {
+    background-image: url(../images/fire.gif);
+    background-repeat: repeat-x;
+    background-position: bottom;
+    height: 540px;
+
+}
