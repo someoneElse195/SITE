@@ -10,39 +10,44 @@ body {
 }
 
 .sec2 {
-    background-image: url(../images/fire.gif);
-    background-repeat: repeat-x;
-    background-position: bottom;
+    background-image: url(../images/spacebackground.gif);
     background-color: black;
     height: 540px;
 
 }
 
 .sec3 {
-    background-image: url(../images/spacebackground.gif);
+    background-image: url(../images/eyesbackground.gif);
     background-color: black;
     height: 540px;
 
 }
 
 .sec4 {
-    background-image: url(../images/spacebackground.gif);
+    background-image: url(../images/spookybackground.gif);
     background-color: black;
     height: 540px;
 
 }
 
 .sec5 {
-    background-image: url(../images/spacebackground.gif);
+    background-image: url(../images/backgroundlightning.gif);
     background-color: black;
     height: 540px;
 
 }
 
 .sec6 {
+    background-image: url(../images/matrixbackground.gif);
+    background-color: black;
+    height: 540px;
+}
+
+.sec7 {
     background-image: url(../images/fire.gif);
     background-repeat: repeat-x;
     background-position: bottom;
     height: 540px;
 
 }
+
