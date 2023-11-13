@@ -61,7 +61,14 @@ body {
 }
 
 .mid1 {
-    display: none;
+    background-image: url(../images/mogus.gif);
+    background-size: contain;
+    height: 330px;
+    width: 330px;
+    position: absolute;
+    top: 35%;
+    left: 42%;
+    z-index: 2;
 }
 
 .mid2 {
@@ -77,9 +84,10 @@ body {
     background-image: url(../images/gokuflying.gif);
     height: 200px;
     width: 100%;
-    position: absolute; top:1540px; left:0;
+    position: absolute; top:1595px; left:0;
     z-index: 2; 
-    background-size: cover;
+    background-repeat: repeat-x;
+
 }
 
 .mid4 {
@@ -89,14 +97,79 @@ body {
     position: absolute; top:2090px; left:0;
     z-index: 2;
     background-repeat: repeat-x; 
-    background-size: 34%;
+
 
 }
 
 .mid5 {
+    background-image: url(../images/gohanfly.gif);
+    height: 81px;
+    width: 100%;
+    position: absolute; top: 2668px; left: 0px;
+    z-index: 2;
+    background-repeat: repeat-x;
     
 }
 
-.mid6 {
-    
+
+.graphic-1 {
+    position: relative;
+    top:8%;
+    left: 43.5%;
+    width: fit-content;
+    height: fit-content;
+    z-index: 2;
+}
+
+.graphic-2 {
+    position: relative;
+    top: 9%;
+    left: 17%;
+    width: fit-content;
+    height: fit-content;
+    z-index: 2;
+}
+
+.graphic-3 {
+    position: relative;
+    top: 9%;
+    left: 5%;
+    width: fit-content;
+    height: fit-content;
+    z-index: 2;
+}
+.graphic-4 {
+    position: relative;
+    top: 30%;
+    left: 80%;
+    width: fit-content;
+    height: fit-content;
+    z-index: 2;
+}
+
+.graphic-5 {
+    position: relative;
+    top: -10%;
+    left: 30%;
+    width: fit-content;
+    height: fit-content;
+    z-index: 2;
+}
+
+.graphic-6 {
+    position: relative;
+    top: -30%;
+    left: 70%;
+    width: fit-content;
+    height: fit-content;
+    z-index: 2;
+}
+
+.graphic-7 {
+    position: relative;
+    top: -20%;
+    left: 80%;
+    width: fit-content;
+    height: fit-content;
+    z-index: 2;
 }
