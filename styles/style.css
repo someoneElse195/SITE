@@ -6,6 +6,8 @@ body {
     background-image: url(../images/spacebackground.gif);
     background-color: black;
     height: 540px;
+    position: relative;
+    z-index: 1;
 
 }
 
@@ -13,34 +15,40 @@ body {
     background-image: url(../images/spacebackground.gif);
     background-color: black;
     height: 540px;
-
+    position: relative;
+    z-index: 1;
 }
 
 .sec3 {
     background-image: url(../images/eyesbackground.gif);
     background-color: black;
     height: 540px;
-
+    position: relative;
+    z-index: 1;
 }
 
 .sec4 {
     background-image: url(../images/spookybackground.gif);
     background-color: black;
     height: 540px;
-
+    position: relative;
+    z-index: 1;
 }
 
 .sec5 {
     background-image: url(../images/backgroundlightning.gif);
     background-color: black;
     height: 540px;
-
+    position: relative;
+    z-index: 1;
 }
 
 .sec6 {
     background-image: url(../images/matrixbackground.gif);
     background-color: black;
     height: 540px;
+    position: relative;
+    z-index: 1;
 }
 
 .sec7 {
@@ -48,6 +56,40 @@ body {
     background-repeat: repeat-x;
     background-position: bottom;
     height: 540px;
+    position: relative;
+    z-index: 1;
+}
+
+.mid1 {
+    display: none;
+}
+
+.mid2 {
+    background-image: url(../images/gokufly.gif);
+    height: 105px;
+    width: 100%;
+    position: absolute; top:1040px; left:0;
+    z-index: 2; 
 
 }
 
+.mid3 {
+    background-image: url(../images/gokuflying.gif);
+    height: 200px;
+    width: 100%;
+    position: absolute; top:1540px; left:0;
+    z-index: 2; 
+    background-size: cover;
+}
+
+.mid4 {
+    
+}
+
+.mid5 {
+    
+}
+
+.mid6 {
+    
+}
