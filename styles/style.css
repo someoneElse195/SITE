@@ -68,7 +68,7 @@ body {
     background-image: url(../images/gokufly.gif);
     height: 105px;
     width: 100%;
-    position: absolute; top:1040px; left:0;
+    position: absolute; top:1030px; left:0;
     z-index: 2; 
 
 }
@@ -83,7 +83,14 @@ body {
 }
 
 .mid4 {
-    
+    background-image: url(../images/vegetafire.gif);
+    height: 138px;
+    width: 100%;
+    position: absolute; top:2090px; left:0;
+    z-index: 2;
+    background-repeat: repeat-x; 
+    background-size: 34%;
+
 }
 
 .mid5 {
