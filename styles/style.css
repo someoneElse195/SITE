@@ -33,36 +33,18 @@ body {
     z-index: 1;
 }
 
-.text1 {
+p {
     color: white;
+    font-family: cursive;
 }
 
-/*
-.sec5 {
-    background-image: url(../images/backgroundlightning.gif);
-    background-color: black;
-    height: 540px;
-    position: relative;
-    z-index: 1;
+.text {
+    background-color: blueviolet;
+    height: fit-content;
+    text-align: center;
+    padding: 15px;
 }
 
-.sec6 {
-    background-image: url(../images/matrixbackground.gif);
-    background-color: black;
-    height: 540px;
-    position: relative;
-    z-index: 1;
-}
-
-.sec7 {
-    background-image: url(../images/fire.gif);
-    background-repeat: repeat-x;
-    background-position: bottom;
-    height: 540px;
-    position: relative;
-    z-index: 1;
-}
-*/
 .mid1 {
     background-image: url(../images/mogus.gif);
     background-size: contain;
@@ -73,47 +55,6 @@ body {
     left: 42%;
     z-index: 2;
 }
-/*
-.mid2 {
-    background-image: url(../images/gokufly.gif);
-    height: 105px;
-    width: 100%;
-    position: absolute; top:1030px; left:0px;
-    z-index: 2; 
-
-}
-
-.mid3 {
-    background-image: url(../images/gokuflying.gif);
-    height: 200px;
-    width: 100%;
-    position: absolute; top:1595px; left:0px;
-    z-index: 2; 
-    background-repeat: repeat-x;
-
-}
-
-.mid4 {
-    background-image: url(../images/vegetafire.gif);
-    height: 138px;
-    width: 100%;
-    position: absolute; top:2090px; left:0px;
-    z-index: 2;
-    background-repeat: repeat-x; 
-
-
-}
-
-.mid5 {
-    background-image: url(../images/gohanfly.gif);
-    height: 81px;
-    width: 100%;
-    position: absolute; top: 2668px; left: 0px;
-    z-index: 2;
-    background-repeat: repeat-x;
-    
-}*/
-
 
 .graphic-1 {
     position: relative;
