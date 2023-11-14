@@ -20,7 +20,6 @@ body {
 }
 
 .sec3 {
-    background-image: url(../images/eyesbackground.gif);
     background-color: black;
     height: 540px;
     position: relative;
@@ -28,13 +27,13 @@ body {
 }
 
 .sec4 {
-    background-image: url(../images/spookybackground.gif);
     background-color: black;
     height: 540px;
     position: relative;
     z-index: 1;
 }
 
+/*
 .sec5 {
     background-image: url(../images/backgroundlightning.gif);
     background-color: black;
@@ -59,7 +58,7 @@ body {
     position: relative;
     z-index: 1;
 }
-
+*/
 .mid1 {
     background-image: url(../images/mogus.gif);
     background-size: contain;
@@ -70,12 +69,12 @@ body {
     left: 42%;
     z-index: 2;
 }
-
+/*
 .mid2 {
     background-image: url(../images/gokufly.gif);
     height: 105px;
     width: 100%;
-    position: absolute; top:1030px; left:0;
+    position: absolute; top:1030px; left:0px;
     z-index: 2; 
 
 }
@@ -84,7 +83,7 @@ body {
     background-image: url(../images/gokuflying.gif);
     height: 200px;
     width: 100%;
-    position: absolute; top:1595px; left:0;
+    position: absolute; top:1595px; left:0px;
     z-index: 2; 
     background-repeat: repeat-x;
 
@@ -94,7 +93,7 @@ body {
     background-image: url(../images/vegetafire.gif);
     height: 138px;
     width: 100%;
-    position: absolute; top:2090px; left:0;
+    position: absolute; top:2090px; left:0px;
     z-index: 2;
     background-repeat: repeat-x; 
 
@@ -109,7 +108,7 @@ body {
     z-index: 2;
     background-repeat: repeat-x;
     
-}
+}*/
 
 
 .graphic-1 {
@@ -172,4 +171,23 @@ body {
     width: fit-content;
     height: fit-content;
     z-index: 2;
+}
+
+.graphic-8 {
+    position: absolute;
+    top: 0%;
+    left:  0%;
+    width: fit-content;
+    height: fit-content;
+    z-index: 2;
+
+}
+.graphic-9 {
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    width: fit-content;
+    height: fit-content;
+    z-index: 2;
+
 }
