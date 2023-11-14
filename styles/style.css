@@ -33,6 +33,10 @@ body {
     z-index: 1;
 }
 
+.text1 {
+    color: white;
+}
+
 /*
 .sec5 {
     background-image: url(../images/backgroundlightning.gif);
