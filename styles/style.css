@@ -134,5 +134,13 @@ p {
     width: fit-content;
     height: fit-content;
     z-index: 2;
+}
 
+.graphic-10 {
+    position: relative;
+    top: -20%;
+    left: 10%;
+    width: fit-content;
+    height: fit-content;
+    z-index: 2;
 }
