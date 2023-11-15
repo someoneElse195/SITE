@@ -21,17 +21,12 @@ body {
 
 .sec3 {
     background-color: black;
-    height: 540px;
+    height: 1080px;
     position: relative;
     z-index: 1;
 }
 
-.sec4 {
-    background-color: black;
-    height: 540px;
-    position: relative;
-    z-index: 1;
-}
+
 
 p {
     color: white;
