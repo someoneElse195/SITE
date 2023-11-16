@@ -88,3 +88,17 @@ body {
     width: fit-content;
     height: fit-content;
 }
+
+.linkBlog {
+    position: absolute;
+    left: 29%;
+    top: 80%;
+    color: lightblue;
+}
+
+.linkPluto {
+    position: absolute;
+    left: 0%;
+    top: 85%;
+    color: lightblue;
+}
