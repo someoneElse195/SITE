@@ -102,3 +102,10 @@ body {
     top: 85%;
     color: lightblue;
 }
+
+.ads {
+    position: absolute;
+    bottom: 0%;
+    width: fit-content;
+    height: fit-content;
+}
