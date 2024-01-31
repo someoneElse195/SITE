@@ -1,7 +1,6 @@
 body {
     background-color: black;
-    color: lightgray;
-    font-family: 'Brush Script MT', cursive;
+    background-image: url(../images/spacebackground.gif);
 }
 
 
